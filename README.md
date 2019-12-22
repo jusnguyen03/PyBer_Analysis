@@ -21,7 +21,7 @@ In this challenge, we were to use the following in pandas to complete the below 
   - Create a multiple-line graph
 
 ## Challenge Summary
-Please click on the file "Pyber_Challenge.ipynb" to review the completed challange assignment.
+Please click on the file "Pyber_Challenge.ipynb" in the repository folder to review the completed challange assignment.
 
 ### Part 1
 
@@ -34,4 +34,4 @@ Per the new dataframe, we see that in rural cities, there were a lot less rides 
 ### Part 2
 
 ![](https://github.com/jusnguyen03/PyBer_Analysis/blob/master/analysis/challengepart2.png)
-The multiple-line plot chart displays the sum of fares for each type of city for each week from the dates of January 2019 through end of April 2019. Since the data we used was the same as in part 1 of this challenge, this also shows that the total fares were greater in urban cities, than in suburban and rural cities. This snapshot allows us to see visually and very quickly the trend week to week on how much in total fares were spent on rides.
+The multiple-line plot chart displays the sum of fares for each type of city for each week from the dates of January 2019 through end of April 2019. Since the data we used is the same as in part 1 of this challenge, this also shows that the total fares were greater in urban cities, than in suburban and rural cities. This snapshot allows us to see visually and very quickly the trend week to week on how much in total fares were spent on rides.
