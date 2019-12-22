@@ -24,3 +24,5 @@ Per the new dataframe, we see that in rural cities, there were a lot less rides 
 
 
 ### Part 2
+
+![](https://github.com/jusnguyen03/PyBer_Analysis/blob/master/analysis/challengepart2.png)
